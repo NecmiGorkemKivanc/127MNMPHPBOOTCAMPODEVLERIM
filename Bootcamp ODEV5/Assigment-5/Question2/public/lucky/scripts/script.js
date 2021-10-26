@@ -1,0 +1,2 @@
+
+               alert ("Patika uygulamasına hoşgeldiniz");      
